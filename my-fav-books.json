@@ -1,0 +1,64 @@
+[
+
+    {
+        "title": "She's Come Undone",
+        "author": "Wally Lamb",
+        "pages": 465,
+        "year": 1992,
+        "genres": ["Drama", "Psychological Ficion"],
+        "ISBN": "0-671-71568-2",
+        "image": "https://www.google.com/aclk?sa=l&ai=DChcSEwiCytDRqp3-AhUd0OMHHfAUBwAYABANGgJ5bQ&ase=2&sig=AOD64_0QDz0JxyHAmFD7JMj5vuw3bKZJyA&ctype=5&nis=5&adurl&ved=2ahUKEwi1n8DRqp3-AhWGazABHaPEC9wQvhd6BAgBEHE"
+
+    },
+
+    {
+        "title": "Middlesex",
+        "author": "Jeffrey Eugenides",
+        "pages": 544,
+        "year": 2002,
+        "genres": ["Family Saga", "Transgender Fiction", "Domestic Fiction"],
+        "ISBN": "0-374-19969-8",
+        "image": "https://m.media-amazon.com/images/I/41iCSayiNAL.jpg"
+    },
+
+    {
+        "title": "Where the Crawdads Sing",
+        "author": "Delia Owens",
+        "pages":368, 
+        "year": 2018,
+        "genres": ["Mystery", "Literary Fiction", "Bildungsroman"],
+        "ISBN": "978-0-7352-1911-3",
+        "image": "https://www.google.com/aclk?sa=l&ai=DChcSEwjFt8Xiqp3-AhWW--MHHQynBOQYABABGgJ5bQ&ase=2&sig=AOD64_33obaXTCbTPrsPla2r5m8OViEhXw&ctype=5&nis=5&adurl&ved=2ahUKEwiV97niqp3-AhWQdDABHWdTCPwQvhd6BAgBEHU"
+    },
+
+    {
+        "title": "The Poisonwood Bible",
+        "author": "Barbara Kingsolver",
+        "pages": 543,
+        "year": 1998,
+        "genres":["Historical Fiction", "Domestic Fiction", "Family Saga"],
+        "ISBN": "0-06-017540-0",
+        "image": "https://www.google.com/aclk?sa=l&ai=DChcSEwih8JPuqp3-AhW49uMHHXVaBI4YABAFGgJ5bQ&ase=2&sig=AOD64_0hlvDH20dZuj3--Zq-SxMzdHU8TA&ctype=5&nis=5&adurl&ved=2ahUKEwjMm4buqp3-AhVKk4QIHbb5CZcQvhd6BQgBEIEB"
+    },
+
+    {
+        "title": "A Thousand Splendid Suns",
+        "author": "Khaled Hosseini",
+        "pages": 384,
+        "year": 2007,
+        "genres": ["Domestic Fiction", "Historical Fiction", "War Literature"],
+        "ISBN": "978-1-59448-950-1",
+        "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Ftarget.scene7.com%2Fis%2Fimage%2FTarget%2FGUEST_392619b6-1619-411c-a5d5-710b5edfe50d%3Fwid%3D488%26hei%3D488%26fmt%3Dpjpeg&tbnid=-xBv6nNlHFz6wM&vet=12ahUKEwiEtJP5qp3-AhVfoYQIHQ3lB34QMygDegUIARD3AQ..i&imgrefurl=https%3A%2F%2Fwww.target.com%2Fp%2Fa-thousand-splendid-suns-hardcover-by-khaled-hosseini%2F-%2FA-11630541&docid=ye-I3mwdRAtoJM&w=488&h=488&q=A%20thousand%20splendind%20suns&hl=en&ved=2ahUKEwiEtJP5qp3-AhVfoYQIHQ3lB34QMygDegUIARD3AQ"
+    },
+
+    {
+        "title": "Snow Flower and the Secret Fan",
+        "author": "Lisa See",
+        "pages": 257,
+        "year": 2005,
+        "genres": ["historical Fiction", "Domestic Fiction", "Psychological Fiction"],
+        "ISBN": "9780375435249",
+        "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/51Ahzsk+ftL._SY344_BO1,204,203,200_.jpg"
+    }
+
+]
